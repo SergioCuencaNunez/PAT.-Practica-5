@@ -1,6 +1,6 @@
 # Práctica 5. Desarrollo de API REST con Spring Boot
 
-En esta práctica se han conectado dos de los formularios presentes en la página web sendos endpoints con SpringBoot.
+En esta práctica se han conectado dos de los formularios presentes en la página web con sendos endpoints con SpringBoot.
 
 El más básico se encuentran en ``InicioSesion.html``. Consta de dos campos para poder usuario y contraseña. Ambos están validados puesto que no se permite dejarlos en blanco, el correo electrónico debe tener un formato válido y la contraseña es alfanumérica con un mínimo de 10 caracteres y un máximo de 50.
 Este formulario permite acceder con cualquier usuario y contraseña que cumpla dichas condiciones.
